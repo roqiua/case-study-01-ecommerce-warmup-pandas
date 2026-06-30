@@ -22,7 +22,7 @@ This repository contains warm-up exercises using **Python** and **Pandas** on an
 The dataset used in this repository is the **E-Commerce Purchases** dataset available on Kaggle.
 
 **Dataset Link:**  
-[:contentReference[oaicite:0]{index=0}](https://www.kaggle.com/datasets/utkarsharya/ecommerce-purchases/code)
+https://www.kaggle.com/datasets/utkarsharya/ecommerce-purchases/code
 
 The dataset includes customer purchase information such as:
 - Purchase Price
